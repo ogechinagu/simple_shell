@@ -1,2 +1,7 @@
-# simple_shell
-ALX Software Engineering Sprint 1 final project. Done by Ogechi Ikwunagu and Inge Lamprecht
+# 0x16. C - Simple Shell
+
+#### by Ogechi Ikwunagu and Inge Lamprecht
+
+### Description
+
+A simple UNIX command interpreter that replicates functionalities of the simple shell (sh). Additional functions are also included. This program was written entirely in C as a milestone project for ALX Africa Software Engineering.
